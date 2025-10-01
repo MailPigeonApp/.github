@@ -1,8 +1,10 @@
 # MailPigeon
 
+![MailPigeon Dashboard](assets/dashboard.jpg)
+
 **MailPigeon** is a form submission backend API service that provides a flexible, scalable solution for handling form data with validation, file uploads, and integration capabilities.
 
-> **Now Open Source!** This project was previously private and is now available as open source. We welcome contributions, feedback, and community involvement.
+> **🎉 Now Open Source!** This project was previously private and is now available as open source. We welcome contributions, feedback, and community involvement.
 
 ## Overview
 
